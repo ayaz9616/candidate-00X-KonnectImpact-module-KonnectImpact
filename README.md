@@ -1,17 +1,40 @@
-<<<<<<< HEAD
-# candidate-00X-KonnectImpact-module-KonnectImpact
-A modern React component with animated dual circular progress rings. Features include a thinner inner animated ring, thicker static outer rings, customizable colors, smooth transitions, and responsive design. Ideal for dashboards, progress tracking, or impact metrics in web apps.
-=======
-# React + Vite
+# KonnectImpact – SEO/Content Module
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, responsive SEO/content module for KonnectImpact.com, built as part of the Alatree Ventures technical assessment.
 
-Currently, two official plugins are available:
+## Features
+- SEO meta tags and description
+- Brand colors, fonts, and UI per KonnectImpact guidelines
+- Responsive card layout with animated border and soft shadows
+- Animated circular progress indicator
+- Accessible, semantic HTML
+- Open source SVG illustration
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React (Vite)
+- HTML5, CSS3 (custom, no frameworks)
+- Google Fonts: Montserrat (headlines), Roboto (body)
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 0df77bb (Initial commit)
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/ayaz9616/candidate-00X-KonnectImpact-module-KonnectImpact.git
+   cd candidate-00X-KonnectImpact-module-KonnectImpact
+   ```
+2. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+3. **Run locally:**
+   ```sh
+   npm run dev
+   ```
+4. **Build for production:**
+   ```sh
+   npm run build
+   ```
+
+**Author:** Ayaz (candidate-00X)
+
+*For Alatree Ventures – KonnectImpact.com Assessment*
