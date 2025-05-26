@@ -1,4 +1,4 @@
-# KonnectImpact – SEO/Content Module
+# KonnectImpact
 
 A clean, responsive SEO/content module for KonnectImpact.com, built as part of the Alatree Ventures technical assessment.
 
